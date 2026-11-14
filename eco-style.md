@@ -205,16 +205,6 @@ Words that merely repeat the meaning of their neighbours consume attention. Repr
 
 Test phrasal verbs in context: a particle may be expendable, or it may change the meaning. These are editing prompts, not search-and-replace rules.
 
-### Combine plain speech with respect
-
-Describe people accurately and with dignity. Ask whether someone in the group would recognise the complexity of the description.
-
-Avoid reducing people to a label. The book prefers descriptions such as “disabled veterans” to a blanket category that erases other aspects of their lives. Include a disability or other personal characteristic only when relevant.
-
-It also recommends “wheelchair user” over “wheelchair-bound”, and “has a condition” over “suffers from” unless suffering is known. These changes improve accuracy as well as tone.
-
-Do not assume that everyone described as a “community” shares an opinion. If the evidence concerns activists, organisations or particular residents, name that group.
-
 ## 3. Sentences and grammar: reduce the reader's work
 
 ### Keep grammatical structures manageable
